@@ -49,7 +49,7 @@ export const siteConfig = {
         "Dean's List all semesters",
         "Participated Regionals Computer Quiz Bowl",
       ],
-      image: "/images/edu/uc-main.jpg" // Education Image
+      
     },
     {
       school: "Online Platform",

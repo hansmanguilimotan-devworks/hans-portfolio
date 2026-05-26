@@ -56,7 +56,7 @@ export const siteConfig = {
       degree: "Blockchain Development Bootcamp",
       dateRange: "2023",
       achievements: [
-        
+        "Completed 3 days of coursework",
         "Built a DAPP in Solana Ecosystem",
         "Specialized in Typescript and Rust",
       ],

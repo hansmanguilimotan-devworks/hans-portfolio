@@ -52,7 +52,7 @@ export const siteConfig = {
        image: "/images/edu/uc-main.jpg" // Education Image
     },
     {
-      school: "Online Platform",
+      
       degree: "Blockchain Development Bootcamp",
       dateRange: "2023",
       achievements: [

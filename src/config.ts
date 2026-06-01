@@ -13,7 +13,7 @@ export const siteConfig = {
     "With 5 years experience in Crypto Trading since 2021 managing and growing my own portfolio and really into trading. I work in Installers PH also a Tech Company for my OJT as a student, installed cctv's, cabling, accounting works at office managing and tracking the sales receipts, and talk clients on the phone those who inquire in the company for 2months. Manage and track sales also on our own Frozen Store Business in Philippines, Cebu. Graduating of Computer Engineering Course running for Latin Honors this June.",
   
   // IMAGE
-  
+  aboutImage: "/images/about-hans.jpg", 
     
   skills: ["Web Development", "Bookkeeping", "Virtual Assistant", "Admin Tasks"],
   projects: [

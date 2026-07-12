@@ -58,7 +58,7 @@ export const siteConfig = {
       achievements: [
         "Completed 3 days of coursework",
         "Built a DAPP in Solana Ecosystem",
-        "Built a DAPP in Ethereum Ecosystem"
+        
       ],
     },
   ],

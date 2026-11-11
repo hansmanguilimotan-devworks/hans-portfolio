@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Hans S. Manguilimotan",
   title: "Computer Engineer",
-  
+  description: "Portfolio website of Hans S. Manguilimotan",
   accentColor: "#1d4ed8",
   social: {
     email: "hansmanguilimotan880@gmail.com",
